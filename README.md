@@ -8,3 +8,4 @@ The currently collected list folllows:
 - Napoleonic Wars by TorMac https://forums.wesnoth.org/viewtopic.php?f=8&t=45101
 - Liberating Alduin by Dellaedry (no thread on official forums)
 - Vengeance of a Drake by Samonella https://forums.wesnoth.org/viewtopic.php?f=8&t=45215
+- Pax Romana : The Rise of Vespasian by nenau https://forums.wesnoth.org/viewtopic.php?f=8&t=46027
