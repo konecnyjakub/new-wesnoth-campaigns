@@ -6,6 +6,6 @@ The currently collected list folllows:
 
 - Mountain Witch by IIO_METAL https://forums.wesnoth.org/viewtopic.php?f=8&t=45017
 - Napoleonic Wars by TorMac https://forums.wesnoth.org/viewtopic.php?f=8&t=45101
-- Liberating Alduin by Dellaedry (no thread on official forums)
+- Liberating Alduin by Dellaedry https://forums.wesnoth.org/viewtopic.php?f=8&t=46092
 - Vengeance of a Drake by Samonella https://forums.wesnoth.org/viewtopic.php?f=8&t=45215
 - Pax Romana : The Rise of Vespasian by nenau https://forums.wesnoth.org/viewtopic.php?f=8&t=46027
