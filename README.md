@@ -9,3 +9,5 @@ The currently collected list folllows:
 - Liberating Alduin by Dellaedry https://forums.wesnoth.org/viewtopic.php?f=8&t=46092
 - Vengeance of a Drake by Samonella https://forums.wesnoth.org/viewtopic.php?f=8&t=45215
 - Pax Romana : The Rise of Vespasian by nenau https://forums.wesnoth.org/viewtopic.php?f=8&t=46027
+- Stormtrooper by Szturmowiec https://forums.wesnoth.org/viewtopic.php?f=8&t=46348
+- Nigthfall by Kwandulin https://forums.wesnoth.org/viewtopic.php?f=8&t=46376
