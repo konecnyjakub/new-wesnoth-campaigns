@@ -11,3 +11,4 @@ The currently collected list folllows:
 - Pax Romana : The Rise of Vespasian by nenau https://forums.wesnoth.org/viewtopic.php?f=8&t=46027
 - Stormtrooper by Szturmowiec https://forums.wesnoth.org/viewtopic.php?f=8&t=46348
 - Nigthfall by Kwandulin https://forums.wesnoth.org/viewtopic.php?f=8&t=46376
+- An Innocent Man by Makepeace McEvoy (no thread on official forums)
