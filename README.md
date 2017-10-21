@@ -13,3 +13,4 @@ The currently collected list folllows:
 - Nigthfall by Kwandulin https://forums.wesnoth.org/viewtopic.php?f=8&t=46376
 - An Innocent Man by Makepeace McEvoy (no thread on official forums)
 - The Goblin Rebellion by MiddleTwin https://forums.wesnoth.org/viewtopic.php?f=8&t=46951
+- A Goblin Adventure by Graziani https://forums.wesnoth.org/viewtopic.php?f=8&t=46971
