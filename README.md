@@ -5,8 +5,10 @@ This repository serves as list of user-made SP campaigns for Battle for Wesnoth 
 The currently collected list folllows:
 
 - Mountain Witch by IIO_METAL https://forums.wesnoth.org/viewtopic.php?f=8&t=45017
+- Elvish Incursion: A Prologue by Vulpine https://forums.wesnoth.org/viewtopic.php?f=8&t=45183
 - Napoleonic Wars by TorMac https://forums.wesnoth.org/viewtopic.php?f=8&t=45101
 - Liberating Alduin by Dellaedry https://forums.wesnoth.org/viewtopic.php?f=8&t=46092
+- The Strange Men by King_of_Sloths (no thread on official forums)
 - Vengeance of a Drake by Samonella https://forums.wesnoth.org/viewtopic.php?f=8&t=45215
 - Pax Romana : The Rise of Vespasian by nenau https://forums.wesnoth.org/viewtopic.php?f=8&t=46027
 - Stormtrooper by Szturmowiec https://forums.wesnoth.org/viewtopic.php?f=8&t=46348
