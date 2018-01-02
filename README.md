@@ -12,7 +12,7 @@ The currently collected list folllows:
 - Vengeance of a Drake by Samonella https://forums.wesnoth.org/viewtopic.php?f=8&t=45215
 - Pax Romana : The Rise of Vespasian by nenau https://forums.wesnoth.org/viewtopic.php?f=8&t=46027
 - Stormtrooper by Szturmowiec https://forums.wesnoth.org/viewtopic.php?f=8&t=46348
-- Nigthfall by Kwandulin https://forums.wesnoth.org/viewtopic.php?f=8&t=46376
+- Nightfall by Kwandulin https://forums.wesnoth.org/viewtopic.php?f=8&t=47623
 - An Innocent Man by Makepeace McEvoy (no thread on official forums)
 - The Goblin Rebellion by MiddleTwin https://forums.wesnoth.org/viewtopic.php?f=8&t=46951
 - A Goblin Adventure by Graziani https://forums.wesnoth.org/viewtopic.php?f=8&t=46971
